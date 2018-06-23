@@ -1,0 +1,20 @@
+.logo{
+	width: 130px;
+	height: 50px;
+}
+.date{
+    padding: 15px;
+    font-size: 200%;
+    text-align: center;
+    color: rgb(70, 79, 204);
+}
+p.quote{
+    text-align: center;
+    font-size: 125%;
+    padding: 5px;
+}
+p.main{
+    font-size: 130%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
