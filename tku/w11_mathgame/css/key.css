@@ -1,9 +1,11 @@
 div.body{
+    width: 35%;
+    margin: 10px auto;
     border: 5px solid purple;
     text-align: center;
 }
 input{
-    margin: 10px;
+    margin: 10px ;
 }
 div img{
     height: 25px;
